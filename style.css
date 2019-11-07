@@ -380,7 +380,7 @@ li > a:only-child:after { content: ''; }
 
 /*-- banner --*/
 .banner {
-    background: url(../ban11.png)no-repeat center;
+    background: url(ban11.png)no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -727,7 +727,7 @@ section#team {
 /*-- //team  --*/
 /*--  text --*/
 .text {
-    background: url(../images/r1.png) no-repeat center;
+    background: url(r1.png) no-repeat center;
     background-size: cover;
     position: relative;
 }
